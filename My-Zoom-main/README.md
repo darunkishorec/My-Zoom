@@ -1,6 +1,4 @@
-
-Designed and Developed by Gunalan
-
+Designed and Developed by Darun Kishore
 
 # My Zoom: A Transformer-Based Model for Contextual Feedback Validation
 
